@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1_feladat", "1_feladat\1_feladat.csproj", "{BF53AC02-36BE-4683-80B3-60E2A3E75FD7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2_feladat", "2_feladat\2_feladat.csproj", "{14BF77E8-9E61-4C3D-B678-50C5E9699EFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF53AC02-36BE-4683-80B3-60E2A3E75FD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF53AC02-36BE-4683-80B3-60E2A3E75FD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF53AC02-36BE-4683-80B3-60E2A3E75FD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF53AC02-36BE-4683-80B3-60E2A3E75FD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14BF77E8-9E61-4C3D-B678-50C5E9699EFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14BF77E8-9E61-4C3D-B678-50C5E9699EFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14BF77E8-9E61-4C3D-B678-50C5E9699EFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14BF77E8-9E61-4C3D-B678-50C5E9699EFD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {17A847E6-2FE0-401C-9E56-C51D86CFA0FE}
+	EndGlobalSection
+EndGlobal
